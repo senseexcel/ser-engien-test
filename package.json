@@ -4,7 +4,7 @@
     "description": "example, for using sense excel reporting with docker",
     "devDependencies": {
         "typescript": "3.1.4",
-        "@types/request": " 2.48.1",
+        "@types/request": "2.48.5",
         "@types/adm-zip": "0.4.32",
         "@types/enigma.js": "2.2.1",
         "@types/qlik-engineapi": "12.67.0",
@@ -12,7 +12,7 @@
         "@types/form-data": "2.5.0"
     },
     "dependencies": {
-        "request": "2.88.0",
+        "request": "2.88.2",
         "ser.api": "3.4.2",
         "letslog": "1.0.10",
         "adm-zip": "0.4.13",
