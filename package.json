@@ -5,7 +5,7 @@
     "devDependencies": {
         "typescript": "3.1.4",
         "@types/request": " 2.48.1",
-        "@types/adm-zip": "0.4.32",
+        "@types/adm-zip": "0.4.34",
         "@types/enigma.js": "2.2.1",
         "@types/qlik-engineapi": "12.67.0",
         "@types/ws": "4.0.1",
@@ -15,7 +15,7 @@
         "request": "2.88.0",
         "ser.api": "3.4.2",
         "letslog": "1.0.10",
-        "adm-zip": "0.4.13",
+        "adm-zip": "0.5.5",
         "enigma.js": "2.2.0",
         "ws": "4.1.0",
         "form-data":"3.0.0"
